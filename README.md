@@ -8,3 +8,5 @@ Conseguir entrar na MIT, e me tornar um engenheiro de software
 
 ## Habilidades:
 Possuo mais habilidade em front end como HTML:5 Intermedio, CSS:3 intermedio, JavaScript basico, NodeJS basico e ReactJS basico porem quando tiver bem aprofundado vou me mudar para back end
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGYZfTCTohV_CPduZS85cd5NoyOU2qb5gvreIaPhZPsuucLnwwC7A4CQEJcAEbtbrxUs&usqp=CAU">
